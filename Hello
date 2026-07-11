@@ -1,4 +1,5 @@
-#EXTINF:-1 tvg-id="Fancode2" tvg-name="Fancode 2" tvg-logo="" group-title="Cricket 🏏",Fancode 1 Live
+#EXTM3U
+#EXTINF:-1 tvg-id="Fancode2" tvg-name="Bangladesh TV" tvg-logo="https://static.cricbuzz.com/a/img/v1/1080x608/i1/c207149/sri-lankas-batting-will-be-in-focus-after-a-disappointing-show-in-the-first-odi.jpg" group-title="Cricket 🏏",Fancode 1 BD Live
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
