@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://shaka-player-demo.appspot.com/assets/icon.png" group-title="DRM Test", Widevine DRM Test Channel (Angel One)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cwip-shaka-proxy.appspot.com/no_auth
-https://storage.googleapis.com/shaka-demo-assets/angel-one-widevine/dash.mpd
+#EXTINF:-1 tvg-logo="https://shaka-player-demo.appspot.com/assets/icon.png" group-title="SPORTS", BEIN SPORTS 1
+https://ranapkz.site/RANAPK33k/TVD/play.php?id=1030236
