@@ -1,1 +1,11 @@
-
+#EXTM3U
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://assets-us-01.kc-usercontent.com/31dbcbc6-da4c-0033-328a-d7621d0fa726/1318873e-8501-4f79-bb69-182d741cf9ad/beIN%20SPORTS%20Portada.jpg?ver=03-06-2025?w=3840&q=75",Bein Sports 1
+https://iptv.mdshahinurislammdsaifulislam2.workers.dev/1.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://assets-us-01.kc-usercontent.com/31dbcbc6-da4c-0033-328a-d7621d0fa726/1318873e-8501-4f79-bb69-182d741cf9ad/beIN%20SPORTS%20Portada.jpg?ver=03-06-2025?w=3840&q=75",Bein Sports 2
+https://iptv.mdshahinurislammdsaifulislam2.workers.dev/2.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://assets-us-01.kc-usercontent.com/31dbcbc6-da4c-0033-328a-d7621d0fa726/1318873e-8501-4f79-bb69-182d741cf9ad/beIN%20SPORTS%20Portada.jpg?ver=03-06-2025?w=3840&q=75",Bein Sports 3
+https://iptv.mdshahinurislammdsaifulislam2.workers.dev/3.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://assets-us-01.kc-usercontent.com/31dbcbc6-da4c-0033-328a-d7621d0fa726/1318873e-8501-4f79-bb69-182d741cf9ad/beIN%20SPORTS%20Portada.jpg?ver=03-06-2025?w=3840&q=75",Bein Sports 4
+https://iptv.mdshahinurislammdsaifulislam2.workers.dev/4.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://assets-us-01.kc-usercontent.com/31dbcbc6-da4c-0033-328a-d7621d0fa726/1318873e-8501-4f79-bb69-182d741cf9ad/beIN%20SPORTS%20Portada.jpg?ver=03-06-2025?w=3840&q=75",Bein Sports 5
+https://iptv.mdshahinurislammdsaifulislam2.workers.dev/5.m3u8
