@@ -3,4 +3,7 @@
 #EXT-X-TARGETDURATION:2
 #EXT-X-PLAYLIST-TYPE:EVENT
 #EXT-X-MEDIA-SEQUENCE:0
-http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/114053.m3u8
+#EXTINF:2.0,
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/segment0.ts
+#EXTINF:2.0,
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/segment1.ts
