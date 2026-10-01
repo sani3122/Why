@@ -1,4 +1,12 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3300000
-http://premiumtvs.space/live/YqXTywueEV/damp2purchase/652338.ts
+#EXTINF:-1 tvg-id="1" tvg-logo="https://example.com/logo1.png" group-title="Sports", Sports Channel 1
+https://stream-url-1.com/live/stream1/index.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-logo="https://example.com/logo2.png" group-title="Sports", Sports Channel 2 (Backup)
+https://stream-url-2.com/live/stream2/index.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-logo="https://example.com/logo3.png" group-title="Entertainment", Unknown TV
+https://embed-resolver.onrender.com/live?url=https://embed.st/embed/xyz123
+
+#EXTINF:-1 tvg-id="4" tvg-logo="https://example.com/logo4.png" group-title="News", News 24/7
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/114053.m3u8
