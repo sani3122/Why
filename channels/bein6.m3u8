@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-logo="https://example.com/logo1.png" group-title="Sports", Sports Channel 1
-https://stream-url-1.com/live/stream1/index.m3u8
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1277&extension=m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://example.com/logo2.png" group-title="Sports", Sports Channel 2 (Backup)
 https://stream-url-2.com/live/stream2/index.m3u8
