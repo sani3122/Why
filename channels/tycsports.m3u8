@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3300000
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1090711&extension=m3u8
+https://lb14.strmd.st/secure/NZlBtGEZliIDMHrSxaJFcOlDJZpOVhkU/rtmp/stream/a0_MNne_mBk8PFRxvf7qjob2IIHCULOqlekmN6ma5aix3iqAi1lr6pgDOTz0oAHse4cuRlRKLBpSsA/1/playlist.m3u8
