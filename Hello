@@ -19,6 +19,16 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m6sqanvm2m/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-15_03-30-39-460.png",Bein Sports 1
+https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/bein1.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-15_03-30-36-039.png",Bein Sports 2
+https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/bein2.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-15_03-30-27-654.png",Bein Sports 3
+https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/bein3.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="hhttps://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-15_03-30-21-785.png",Bein Sports 4
+https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/bein4.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-15_03-30-14-828.png",Bein Sports 5
+https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/bein5.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXIG2bWDA1DJXhlmjkJqsggBFjV-mZtHonutYHUlapCA&s=10",Sportv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -60,15 +70,5 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
-#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://assets-us-01.kc-usercontent.com/31dbcbc6-da4c-0033-328a-d7621d0fa726/1318873e-8501-4f79-bb69-182d741cf9ad/beIN%20SPORTS%20Portada.jpg?ver=03-06-2025?w=3840&q=75",Bein Sports 1
-https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/bein1.m3u8
-#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://assets-us-01.kc-usercontent.com/31dbcbc6-da4c-0033-328a-d7621d0fa726/1318873e-8501-4f79-bb69-182d741cf9ad/beIN%20SPORTS%20Portada.jpg?ver=03-06-2025?w=3840&q=75",Bein Sports 2
-https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/bein2.m3u8
-#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://assets-us-01.kc-usercontent.com/31dbcbc6-da4c-0033-328a-d7621d0fa726/1318873e-8501-4f79-bb69-182d741cf9ad/beIN%20SPORTS%20Portada.jpg?ver=03-06-2025?w=3840&q=75",Bein Sports 3
-https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/bein3.m3u8
-#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://assets-us-01.kc-usercontent.com/31dbcbc6-da4c-0033-328a-d7621d0fa726/1318873e-8501-4f79-bb69-182d741cf9ad/beIN%20SPORTS%20Portada.jpg?ver=03-06-2025?w=3840&q=75",Bein Sports 4
-https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/bein4.m3u8
-#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://assets-us-01.kc-usercontent.com/31dbcbc6-da4c-0033-328a-d7621d0fa726/1318873e-8501-4f79-bb69-182d741cf9ad/beIN%20SPORTS%20Portada.jpg?ver=03-06-2025?w=3840&q=75",Bein Sports 5
-https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/bein5.m3u8
 #EXTINF:-1 group-title="Backup Channels" tvg-logo="https://images.seeklogo.com/logo-png/34/1/tyc-sports-logo-png_seeklogo-340604.png",TYC SPORTS
 https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/tycsports.m3u8
