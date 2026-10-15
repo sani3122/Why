@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/bein1.m3
 https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/bein2.m3u8
 #EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-15_03-30-27-654.png",Bein Sports 3
 https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/bein3.m3u8
-#EXTINF:-1 group-title="Backup Channels" tvg-logo="hhttps://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-15_03-30-21-785.png",Bein Sports 4
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-15_03-30-21-785.png",Bein Sports 4
 https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/bein4.m3u8
 #EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-15_03-30-14-828.png",Bein Sports 5
 https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/bein5.m3u8
@@ -78,5 +78,13 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
-#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://images.seeklogo.com/logo-png/34/1/tyc-sports-logo-png_seeklogo-340604.png",TYC SPORTS
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="",TYC SPORTS
 https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/tycsports.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/ziggos1.png",Ziggo Sport 1 HD
+https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/ziggos1.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/ziggos2.png",Ziggo Sport 2 HD
+https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/ziggos2.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/ziggos3.png",Ziggo Sport 3 HD
+https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/ziggos3.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/ziggos4.png",Ziggo Sport 4 HD
+https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/ziggos4.m3u8
