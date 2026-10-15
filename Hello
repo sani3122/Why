@@ -46,6 +46,10 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/tsports.png",T Sports
 https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/tsports.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/unite8_1.png",Unite8 Sports 1 HD
+https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/unite8s1.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/unite8_2.png",Unite8 Sports 2 HD
+https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/unite8s2.m3u8
 #EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/sonys1.png",Sony Ten Sports 1 HD
 https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/sonyten1.m3u8
 #EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/sonys2.png",Sony Ten Sports 2 HD
