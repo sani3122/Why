@@ -92,3 +92,5 @@ https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/ziggos2.
 https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/ziggos3.m3u8
 #EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/ziggos4.png",Ziggo Sport 4 HD
 https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/ziggos4.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/ziggos4.png",Sky Sport NZ 3
+https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/skynz3.m3u8
