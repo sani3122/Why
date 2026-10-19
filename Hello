@@ -19,134 +19,134 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m6sqanvm2m/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-#EXTINF:-1 tvg-name="Premier Sports 1" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-19_12-13-54-204.png?token=GHSAT0AAAAAAEGTOSRYJA2GJBTNULLY43C42WV3CFQ" group-title="SPORTS",Caze TV 1
+#EXTINF:-1 tvg-name="Premier Sports 1" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-19_12-13-54-204.png group-title="SPORTS",Caze TV 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
-#EXTINF:-1 tvg-name="Premier Sports 1" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-19_12-13-54-204.png?token=GHSAT0AAAAAAEGTOSRYJA2GJBTNULLY43C42WV3CFQ" group-title="SPORTS",Caze TV 2
+#EXTINF:-1 tvg-name="Premier Sports 1" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-19_12-13-54-204.png" group-title="SPORTS",Caze TV 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=25e29a3ae3eedc673503096ab8179f5a:a4e004efbccd9823219db7ddea93f8be
 https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/mhtoezwtr5/out/v1/bc4e3d26a68140e2bd257f843f40d885/cenc.mpd
-#EXTINF:-1 tvg-name="Premier Sports 1" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-19_12-13-54-204.png?token=GHSAT0AAAAAAEGTOSRYJA2GJBTNULLY43C42WV3CFQ" group-title="SPORTS",Caze TV 3
+#EXTINF:-1 tvg-name="Premier Sports 1" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-19_12-13-54-204.png" group-title="SPORTS",Caze TV 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91dae7d37dc3129695521671bc863264:c7b9e01f0a4cadfad0c67d86eb7c8276
 https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/ese3ubkczc/out/v1/643cc7391b5c48af826b42ec34d7fdeb/cenc.mpd
-#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-15_03-30-39-460.png?token=GHSAT0AAAAAAEKVEKTHDEWLDE5PNXZW4ZS42WWARDQ",Bein Sports 1
-https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/bein1.m3u8?token=GHSAT0AAAAAAEKVEKTHU2PC4P4UQ5JOKQFW2WWAQBA
-#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-15_03-30-36-039.png?token=GHSAT0AAAAAAEKVEKTHCQ6LFX4ZRCHNXUOS2WWASLQ",Bein Sports 2
-https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/bein2.m3u8?token=GHSAT0AAAAAAEKVEKTGQPXMPF5PR3FLG6WI2WWAR2Q
-#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-15_03-30-27-654.png?token=GHSAT0AAAAAAEKVEKTH6L4YZ3DMC7RTYJHQ2WWATTQ",Bein Sports 3
-https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/bein3.m3u8?token=GHSAT0AAAAAAEKVEKTHY7RMGAZB6EIXWZ5M2WWATEA
-#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-15_03-30-21-785.png?token=GHSAT0AAAAAAEKVEKTGC6UH3PBKESGB2W4E2WWAVIQ",Bein Sports 4
-https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/bein4.m3u8?token=GHSAT0AAAAAAEKVEKTH34A43A74GFCKYJ3U2WWAU2Q
-#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-15_03-30-14-828.png?token=GHSAT0AAAAAAEKVEKTH7VEOH7NH4TR77CCQ2WWAWKQ",Bein Sports 5
-https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/bein5.m3u8?token=GHSAT0AAAAAAEKVEKTGT7FPFKNNP6KFYK5W2WWAV6Q
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/sportvbr.png?token=GHSAT0AAAAAAEKVEKTGP6O7Z5H656J2FKHK2WWAXFQ",Sportv
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-15_03-30-39-460.png",Bein Sports 1
+https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/bein1.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-15_03-30-36-039.png",Bein Sports 2
+https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/bein2.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-15_03-30-27-654.png",Bein Sports 3
+https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/bein3.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-15_03-30-21-785.png",Bein Sports 4
+https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/bein4.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-15_03-30-14-828.png",Bein Sports 5
+https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/bein5.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/sportvbr.png",Sportv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
 https://abbfz7naaaaaaaamlleqwa446ufun.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/sportv2.png?token=GHSAT0AAAAAAEKVEKTHRQX2JZBJXMX73UGC2WWAXWA",Sportv 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/sportv2.png",Sportv 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/sportv3.png?token=GHSAT0AAAAAAEKVEKTHXQ5JNUIEWNN5OQYO2WWAYGA",Sportv 3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/sportv3.png",Sportv 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
-#EXTINF:-1 tvg-name="Premier Sports 1" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-19_12-15-59-419.png?token=GHSAT0AAAAAAEGTOSRZA3FSVIHP5S7KYYSW2WV7AWQ" group-title="SPORTS",Fubo Sports Network
+#EXTINF:-1 tvg-name="Premier Sports 1" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-19_12-15-59-419.png" group-title="SPORTS",Fubo Sports Network
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1
 https://otte.cache.aiv-cdn.net/lhr-nitro/live/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd
-#EXTINF:-1 tvg-name="Premier Sports 1" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-19_12-15-16-645.png?token=GHSAT0AAAAAAEGTOSRYGRHWBRFBHIQIMK3C2WV7DYQ" group-title="SPORTS",D Sports 1
+#EXTINF:-1 tvg-name="Premier Sports 1" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-19_12-15-16-645.png" group-title="SPORTS",D Sports 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
 https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
-#EXTINF:-1 tvg-name="Premier Sports 1" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-19_12-15-36-173.png?token=GHSAT0AAAAAAEGTOSRYDCPTUCZYMBU4SJ5G2WV7FWQ" group-title="SPORTS",D Sports 2
+#EXTINF:-1 tvg-name="Premier Sports 1" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-19_12-15-36-173.png" group-title="SPORTS",D Sports 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0db71325e4256f5f16b348b3b1b7832a:c664b811a97edc555da47c1d22482542
 https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/nzl2d4ffbw/out/v1/d094dc6ba8354f3e88b7efa32f80cc33/cenc.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/tsports.png?token=GHSAT0AAAAAAEKVEKTHNYGCIBIZ3MK7QIRI2WWAZEA",T Sports
-https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/tsports.m3u8?token=GHSAT0AAAAAAEKVEKTHMARDK5M6M2ASV6EU2WWA2AQ
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/unite8_1.png?token=GHSAT0AAAAAAEKVEKTH4WNU5JOC5CGRSPQI2WWA3JQ",Unite8 Sports 1 HD
-https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/unite8s1.m3u8?token=GHSAT0AAAAAAEKVEKTHARAX3KDUSD6HSGNY2WWA2ZA
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/unite8_2.png?token=GHSAT0AAAAAAEKVEKTGT273BPVN7AXQDYNA2WWA4ZA",Unite8 Sports 2 HD
-https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/unite8s2.m3u8?token=GHSAT0AAAAAAEKVEKTH5UPTF5UCI7ISPPLS2WWA4IQ
-#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/sonys1.png?token=GHSAT0AAAAAAEKVEKTH42VW43KROREBS7I42WWA7HA",Sony Ten Sports 1 HD
-https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/sonyten1.m3u8?token=GHSAT0AAAAAAEKVEKTHBX2IDOOAXHGXCN2O2WWA63A
-#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/sonys2.png?token=GHSAT0AAAAAAEKVEKTGTIDOG5D4HOZXSXO22WWA77Q",Sony Ten Sports 2 HD
-https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/sonyten2.m3u8?token=GHSAT0AAAAAAEKVEKTHEFZZZ73SGOMMZK242WWBASQ
-#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/sonys3.png?token=GHSAT0AAAAAAEKVEKTGMNCHC7HFDM2OOIW22WWBA5A",Sony Ten Sports 3 HD
-https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/sonyten3.m3u8?token=GHSAT0AAAAAAEKVEKTHVKLTK7KWUAHNQ34O2WWBBNA
-#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/sonys5.png?token=GHSAT0AAAAAAEKVEKTHM5CXN67GEK4XWTY42WWBBXQ",Sony Ten Sports 5 HD
-https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/sonyten5.m3u8?token=GHSAT0AAAAAAEKVEKTGVLODBBXSW2FBFJ5I2WWBEJQ
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/willow.png?token=GHSAT0AAAAAAEKVEKTHHVU3UZFBQVY3UHWY2WWBFKQ",WILLOW SPORTS HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/tsports.png",T Sports
+https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/tsports.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/unite8_1.png",Unite8 Sports 1 HD
+https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/unite8s1.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/unite8_2.png",Unite8 Sports 2 HD
+https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/unite8s2.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/sonys1.png",Sony Ten Sports 1 HD
+https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/sonyten1.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/sonys2.png",Sony Ten Sports 2 HD
+https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/sonyten2.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/sonys3.png",Sony Ten Sports 3 HD
+https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/sonyten3.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/sonys5.png",Sony Ten Sports 5 HD
+https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/sonyten5.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/willow.png",WILLOW SPORTS HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/tntsports1.png?token=GHSAT0AAAAAAEKVEKTGAZIQV6MVJ7ZXQNUM2WWBGEQ",TNT SPORTS 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/tntsports1.png",TNT SPORTS 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/tntsports2.png?token=GHSAT0AAAAAAEKVEKTGKGROAF2AKH2UKGDQ2WWBIHQ",TNT SPORTS 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/tntsports2.png",TNT SPORTS 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/tntsports3.png?token=GHSAT0AAAAAAEKVEKTHVLP7CU5X2SGR57LU2WWBI2Q",TNT SPORTS 3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/tntsports3.png",TNT SPORTS 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-19_12-16-47-375.png?token=GHSAT0AAAAAAEGTOSRZD4VZEWE6ZSDIMASM2WV7LJQ",MBC Shahid 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-19_12-16-47-375.png",MBC Shahid 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
 https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-19_12-16-47-375.png?token=GHSAT0AAAAAAEGTOSRZD4VZEWE6ZSDIMASM2WV7LJQ",MBC Shahid 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-19_12-16-47-375.png",MBC Shahid 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50a7f3afc00a40b38face4db639d0e4c:ad7000691326064706281a700b7d6714
 https://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-19_12-16-47-375.png?token=GHSAT0AAAAAAEGTOSRZD4VZEWE6ZSDIMASM2WV7LJQ",MBC Shahid 3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-19_12-16-47-375.png",MBC Shahid 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b6f6b340aa8467785e4e82f9320fb5a:8889701d704078c4d910ed1409413d9b
 https://shahid-sports-3-enc.edgenextcdn.net/out/v1/2658c96bbfa54f339e357fe36361587e/index.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-19_12-16-47-375.png?token=GHSAT0AAAAAAEGTOSRZD4VZEWE6ZSDIMASM2WV7LJQ",MBC Shahid 4
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-19_12-16-47-375.png?",MBC Shahid 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6477160076644679af1028534f03f67e:1267f99705113a62c7782c4d5281a7eb
 https://shahid-sports-4-enc.edgenextcdn.net/out/v1/f813ab47644d4c41a99285513f6c7409/index.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-19_12-16-47-375.png?token=GHSAT0AAAAAAEGTOSRZD4VZEWE6ZSDIMASM2WV7LJQ",MBC Shahid 5
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-19_12-16-47-375.png",MBC Shahid 5
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e2df3c205b674360bc6f364ba1090e70:93da2c77bc812bc05a6e20ad8d35ea78
 https://shahid-sports-5-enc.edgenextcdn.net/out/v1/ae00715d1c2c4432852b44a254c04a3d/index.mpd
-#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/ziggos1.png?token=GHSAT0AAAAAAEKVEKTH6IKF66REDD7PAOXA2WWBLTA",Ziggo Sport 1 HD
-https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/ziggos1.m3u8?token=GHSAT0AAAAAAEKVEKTG6SHHZOR4MTXYSLGG2WWBMJQ
-#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/ziggos2.png?token=GHSAT0AAAAAAEKVEKTGML7HHIBJR7F4BBTU2WWBNBQ",Ziggo Sport 2 HD
-https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/ziggos2.m3u8?token=GHSAT0AAAAAAEKVEKTG2OUEWOK6OEXQOOB22WWBOJA
-#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/ziggos3.png?token=GHSAT0AAAAAAEKVEKTGIML2HIU3N3ZSCDOW2WWBOVQ",Ziggo Sport 3 HD
-https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/ziggos3.m3u8?token=GHSAT0AAAAAAEKVEKTHK7SUYP7MQWY26JQW2WWBQLA
-#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/ziggos4.png?token=GHSAT0AAAAAAEKVEKTGHODDU4LZY3NUY34G2WWBQXA",Ziggo Sport 4 HD
-https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/ziggos4.m3u8?token=GHSAT0AAAAAAEKVEKTHJR2X3JBLXQTKSKMQ2WWBRUQ
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/ziggos1.png",Ziggo Sport 1 HD
+https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/ziggos1.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/ziggos2.png",Ziggo Sport 2 HD
+https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/ziggos2.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/ziggos3.png",Ziggo Sport 3 HD
+https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/ziggos3.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/ziggos4.png?",Ziggo Sport 4 HD
+https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/ziggos4.m3u8?
