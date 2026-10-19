@@ -19,6 +19,21 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m6sqanvm2m/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+#EXTINF:-1 tvg-name="Premier Sports 1" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-19_12-13-54-204.png?token=GHSAT0AAAAAAEGTOSRYJA2GJBTNULLY43C42WV3CFQ" group-title="SPORTS",Caze TV 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
+#EXTINF:-1 tvg-name="Premier Sports 1" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-19_12-13-54-204.png?token=GHSAT0AAAAAAEGTOSRYJA2GJBTNULLY43C42WV3CFQ" group-title="SPORTS",Caze TV 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25e29a3ae3eedc673503096ab8179f5a:a4e004efbccd9823219db7ddea93f8be
+https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/mhtoezwtr5/out/v1/bc4e3d26a68140e2bd257f843f40d885/cenc.mpd
+#EXTINF:-1 tvg-name="Premier Sports 1" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-19_12-13-54-204.png?token=GHSAT0AAAAAAEGTOSRYJA2GJBTNULLY43C42WV3CFQ" group-title="SPORTS",Caze TV 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91dae7d37dc3129695521671bc863264:c7b9e01f0a4cadfad0c67d86eb7c8276
+https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/ese3ubkczc/out/v1/643cc7391b5c48af826b42ec34d7fdeb/cenc.mpd
 #EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-15_03-30-39-460.png",Bein Sports 1
 https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/bein1.m3u8
 #EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-15_03-30-36-039.png",Bein Sports 2
