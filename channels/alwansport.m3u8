@@ -1,0 +1,11 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="channel1" tvg-name="Channel 1",Channel 1
+http://apk4k.org:80/live/elesairyahmed2025/egy20252025/395875.m3u8
+
+#EXTINF:-1 tvg-id="channel2" tvg-name="Channel 2",Channel 2
+http://apk4k.org:80/live/elesairyahmed2025/egy20252025/395876.m3u8
+
+#EXTINF:-1 tvg-id="channel3" tvg-name="Channel 3",Channel 3
+http://apk4k.org:80/live/elesairyahmed2025/egy20252025/395877.m3u8
