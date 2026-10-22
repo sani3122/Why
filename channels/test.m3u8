@@ -1,2 +1,4 @@
 #EXTM3U
-https://www.youtube.com/live/ayUsvm7HIqE?si=knkKB2KuIyJJ4PZY
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3300000
+https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8
