@@ -35,7 +35,7 @@ https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/mhtoez
 #KODIPROP:inputstream.adaptive.license_key=91dae7d37dc3129695521671bc863264:c7b9e01f0a4cadfad0c67d86eb7c8276
 https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/ese3ubkczc/out/v1/643cc7391b5c48af826b42ec34d7fdeb/cenc.mpd
 #EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-15_03-30-39-460.png",Bein Sports 1
-https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/bein1.m3u8
+https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/alwans1.m3u8
 #EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-15_03-30-36-039.png",Bein Sports 2
 https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/bein2.m3u8
 #EXTINF:-1 group-title="Backup Channels" tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-10-15_03-30-27-654.png",Bein Sports 3
