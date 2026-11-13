@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-11-14_00-03-15-990.png",Abu Dhabi Sports 1
+https://proxy.acc-mail-sani.workers.dev/proxy?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsani3122%2FWhy%2Frefs%2Fheads%2Fmain%2Fchannels%2Fabudhabisport1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sani3122/Why/refs/heads/main/channels/logos/Picsart_26-11-14_00-03-15-990.png",Abu Dhabi Sports 2
+https://proxy.acc-mail-sani.workers.dev/proxy?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsani3122%2FWhy%2Frefs%2Fheads%2Fmain%2Fchannels%2Fabudhabisports2.m3u8
